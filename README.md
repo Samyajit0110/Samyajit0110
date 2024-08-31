@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyajit0110" alt="samyajit0110" /></a> </p>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/lI5lnMr2fARCIhVB9o" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/anime-sad-hug-lI5lnMr2fARCIhVB9o">via GIPHY</a></p>
+<a href=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnViNmticWxpc2d5eDcxYW1zY2NjZWhlcjJhNTAzYmExaXluZjVjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lI5lnMr2fARCIhVB9o/giphy.gif></a>
 - 🌱 I’m currently learning **Cyber-security, Networking.**
 
 - 🤝 I’m looking for help with **Cyber-security**
