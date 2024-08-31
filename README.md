@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyajit0110" alt="samyajit0110" /></a> </p>
 
-![giphy](https://github.com/user-attachments/assets/844490c9-1835-4194-9977-434f99e6133e)
+![giphy](https://github.com/user-attachments/assets/ea575dbb-c9ec-4fdc-814c-412f2e524e1b)
+
 
 - 🌱 I’m currently learning **Cyber-security, Networking.**
 
