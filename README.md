@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🔎Soc Analyst by day, Pentester by night 💾</h3>
+<h3 align="center">🔎Analyst by day, Pentester by night 💾</h3>
 
 ###
 
